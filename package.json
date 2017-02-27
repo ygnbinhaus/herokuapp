@@ -10,5 +10,11 @@
     "heroku"
   ],
   "author": "Nyi Nyi Nyan Lin",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+  "engines": {
+    "node":"4.2.6"
+  }
 }
